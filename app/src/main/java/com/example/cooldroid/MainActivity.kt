@@ -16,7 +16,6 @@ class MainActivity : AppCompatActivity() {
             Log.d(null, "onCreate(), counter: ${counter}")
             cooldroidText.text =
                 when (counter) {
-                    0 -> getString(R.string.txt_dont_touch)
                     1 -> getString(R.string.once)
                     2 -> getString(R.string.twice)
                     else -> getString(R.string.text_view_numbers, counter)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoolDroid</string>
+    <string name="cooldroidcontentdescription">CoolDroid Bild</string>
+    <string name="txt_dont_touch">Gib deine Bratzerl weg!</string>
+    <string name="once">A moi</string>
+    <string name="twice">Zwa moi</string>
+    <string name="text_view_numbers">Du hosdn %1$d moi druckt</string>
+</resources>
